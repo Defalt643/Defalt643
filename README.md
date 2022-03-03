@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Defalt643
 - 👀 I’m interested in JAVA Python Dart Flutter SQL NoSQL
 - 🌱 I’m currently learning JAVA Dart Flutter SQL
-- 💞️ I’m looking to collaborate on "Not now"
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me via my email : punming@hotmail.com
 
 <!---
