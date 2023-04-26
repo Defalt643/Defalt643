@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Defalt643
-- 👀 I’m interested in JAVA Python Dart Flutter SQL NoSQL NodeJS Express Vue.js Android Native
-- 🌱 I’m currently learning JAVA Python Dart Flutter SQL NoSQL NodeJS Express Vue.js Kotlin
+- 👀 I’m interested in Go JAVA Python Dart Flutter SQL NoSQL NodeJS Express Vue.js Android Native MongoDB Elasticsearch Kibana
+- 🌱 I’m currently learning JAVA Python Dart Flutter SQL NoSQL NodeJS Express Vue.js Kotlin Go MongoDB Elasticsearch Kibana
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me via my email : khummeung.wattanasaroj@gmail.com
 
